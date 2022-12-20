@@ -15,6 +15,6 @@ best automation homeworks
 Потом открываем файл в TEXTedit по адресу /stepik_auto_test_course/
 И Сейчас мы в нем! VOILA !!!
 Trulalal!!!!!!!!!!`
-POEHALI
+POEHALI!
 
 
